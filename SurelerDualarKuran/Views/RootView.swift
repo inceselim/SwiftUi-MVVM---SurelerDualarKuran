@@ -23,10 +23,10 @@ struct RootView: View {
                     Text("Dualar")
                 }
                 .tag(1)
-            KuranView()
+            ElifBeLearningView()
                 .tabItem(){
                     Image(systemName: "book")
-                    Text("Kuran")
+                    Text("Elif Be")
                 }
                 .tag(2)
                 .badge(0)

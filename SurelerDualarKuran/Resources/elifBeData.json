@@ -1,0 +1,338 @@
+{
+  "letters": [
+    {
+      "id": "elif",
+      "order": 1,
+      "arabic": "ا",
+      "name": "Elif",
+      "pronunciation": "Uzun a sesini verir; tek başına boğazdan yumuşak çıkar.",
+      "example": "اَ",
+      "exampleReading": "e / a",
+      "note": "Elif çoğu zaman uzatma harfi olarak kullanılır. Kendinden sonraki harfe bitişmez."
+    },
+    {
+      "id": "be",
+      "order": 2,
+      "arabic": "ب",
+      "name": "Be",
+      "pronunciation": "Dudaklar kapatılıp açılarak b sesi verilir.",
+      "example": "بَ",
+      "exampleReading": "be",
+      "note": "Altında tek nokta bulunur. Kelime başında, ortasında ve sonunda şekli değişir."
+    },
+    {
+      "id": "te",
+      "order": 3,
+      "arabic": "ت",
+      "name": "Te",
+      "pronunciation": "Dil ucu üst ön dişlerin arkasına değerek t sesi verilir.",
+      "example": "تَ",
+      "exampleReading": "te",
+      "note": "Üstünde iki nokta bulunur."
+    },
+    {
+      "id": "se",
+      "order": 4,
+      "arabic": "ث",
+      "name": "Se",
+      "pronunciation": "Dil ucu hafifçe dişlerin arasına yaklaştırılarak peltek s sesi verilir.",
+      "example": "ثَ",
+      "exampleReading": "se",
+      "note": "Üstünde üç nokta bulunur."
+    },
+    {
+      "id": "cim",
+      "order": 5,
+      "arabic": "ج",
+      "name": "Cim",
+      "pronunciation": "Türkçedeki c sesine yakın okunur.",
+      "example": "جَ",
+      "exampleReading": "ce",
+      "note": "Altında tek nokta bulunur."
+    },
+    {
+      "id": "ha",
+      "order": 6,
+      "arabic": "ح",
+      "name": "Ha",
+      "pronunciation": "Boğazın ortasından, hırıltısız ve nefesli h sesiyle okunur.",
+      "example": "حَ",
+      "exampleReading": "ha",
+      "note": "Noktasızdır. Hı harfiyle karıştırmamaya dikkat edilir."
+    },
+    {
+      "id": "hi",
+      "order": 7,
+      "arabic": "خ",
+      "name": "Hı",
+      "pronunciation": "Boğazdan gelen kalın ve hırıltılı h sesiyle okunur.",
+      "example": "خَ",
+      "exampleReading": "ha",
+      "note": "Üstünde tek nokta bulunur."
+    },
+    {
+      "id": "dal",
+      "order": 8,
+      "arabic": "د",
+      "name": "Dal",
+      "pronunciation": "Türkçedeki d sesine yakın okunur.",
+      "example": "دَ",
+      "exampleReading": "de",
+      "note": "Kendinden sonraki harfe bitişmez."
+    },
+    {
+      "id": "zel",
+      "order": 9,
+      "arabic": "ذ",
+      "name": "Zel",
+      "pronunciation": "Dil ucu dişlerin arasına yaklaştırılarak peltek z sesi verilir.",
+      "example": "ذَ",
+      "exampleReading": "ze",
+      "note": "Üstünde tek nokta bulunur ve kendinden sonraki harfe bitişmez."
+    },
+    {
+      "id": "ra",
+      "order": 10,
+      "arabic": "ر",
+      "name": "Ra",
+      "pronunciation": "R sesiyle okunur; harekesine göre ince veya kalın duyulabilir.",
+      "example": "رَ",
+      "exampleReading": "ra",
+      "note": "Kendinden sonraki harfe bitişmez."
+    },
+    {
+      "id": "ze",
+      "order": 11,
+      "arabic": "ز",
+      "name": "Ze",
+      "pronunciation": "Türkçedeki z sesine yakın okunur.",
+      "example": "زَ",
+      "exampleReading": "ze",
+      "note": "Üstünde tek nokta bulunur ve kendinden sonraki harfe bitişmez."
+    },
+    {
+      "id": "sin",
+      "order": 12,
+      "arabic": "س",
+      "name": "Sin",
+      "pronunciation": "Türkçedeki s sesine yakın okunur.",
+      "example": "سَ",
+      "exampleReading": "se",
+      "note": "Dişler arasından ince s sesiyle okunur."
+    },
+    {
+      "id": "sin2",
+      "order": 13,
+      "arabic": "ش",
+      "name": "Şın",
+      "pronunciation": "Türkçedeki ş sesine yakın okunur.",
+      "example": "شَ",
+      "exampleReading": "şe",
+      "note": "Üstünde üç nokta bulunur."
+    },
+    {
+      "id": "sad",
+      "order": 14,
+      "arabic": "ص",
+      "name": "Sad",
+      "pronunciation": "Kalın s sesiyle okunur.",
+      "example": "صَ",
+      "exampleReading": "sa",
+      "note": "Kalın harflerdendir; ses daha tok çıkar."
+    },
+    {
+      "id": "dad",
+      "order": 15,
+      "arabic": "ض",
+      "name": "Dad",
+      "pronunciation": "Kalın d sesine yakın, dilin yan tarafıyla çıkarılan özel bir sestir.",
+      "example": "ضَ",
+      "exampleReading": "da",
+      "note": "Üstünde tek nokta bulunur ve kalın harflerdendir."
+    },
+    {
+      "id": "ti",
+      "order": 16,
+      "arabic": "ط",
+      "name": "Tı",
+      "pronunciation": "Kalın t sesiyle okunur.",
+      "example": "طَ",
+      "exampleReading": "ta",
+      "note": "Kalın harflerdendir."
+    },
+    {
+      "id": "zi",
+      "order": 17,
+      "arabic": "ظ",
+      "name": "Zı",
+      "pronunciation": "Kalın ve peltek z sesine yakın okunur.",
+      "example": "ظَ",
+      "exampleReading": "za",
+      "note": "Üstünde tek nokta bulunur ve kalın harflerdendir."
+    },
+    {
+      "id": "ayn",
+      "order": 18,
+      "arabic": "ع",
+      "name": "Ayn",
+      "pronunciation": "Boğazdan çıkan özel bir sestir; Türkçede tam karşılığı yoktur.",
+      "example": "عَ",
+      "exampleReading": "a",
+      "note": "Ses boğazda tutulup yumuşakça açılır."
+    },
+    {
+      "id": "gayn",
+      "order": 19,
+      "arabic": "غ",
+      "name": "Ğayn",
+      "pronunciation": "Boğazdan gelen kalın ğ sesine yakın okunur.",
+      "example": "غَ",
+      "exampleReading": "ğa",
+      "note": "Üstünde tek nokta bulunur ve kalın harflerdendir."
+    },
+    {
+      "id": "fe",
+      "order": 20,
+      "arabic": "ف",
+      "name": "Fe",
+      "pronunciation": "Üst dişler alt dudağa yaklaştırılarak f sesi verilir.",
+      "example": "فَ",
+      "exampleReading": "fe",
+      "note": "Üstünde tek nokta bulunur."
+    },
+    {
+      "id": "kaf",
+      "order": 21,
+      "arabic": "ق",
+      "name": "Kaf",
+      "pronunciation": "Boğaza yakın yerden çıkan kalın k sesidir.",
+      "example": "قَ",
+      "exampleReading": "ka",
+      "note": "Üstünde iki nokta bulunur ve kalın harflerdendir."
+    },
+    {
+      "id": "kef",
+      "order": 22,
+      "arabic": "ك",
+      "name": "Kef",
+      "pronunciation": "Türkçedeki ince k sesine yakın okunur.",
+      "example": "كَ",
+      "exampleReading": "ke",
+      "note": "İnce harflerdendir."
+    },
+    {
+      "id": "lam",
+      "order": 23,
+      "arabic": "ل",
+      "name": "Lam",
+      "pronunciation": "Türkçedeki l sesine yakın okunur.",
+      "example": "لَ",
+      "exampleReading": "le",
+      "note": "Dil ucu üst ön dişlerin arkasına değdirilir."
+    },
+    {
+      "id": "mim",
+      "order": 24,
+      "arabic": "م",
+      "name": "Mim",
+      "pronunciation": "Dudaklar kapatılarak m sesi verilir.",
+      "example": "مَ",
+      "exampleReading": "me",
+      "note": "Tenvin ve sakin mim konuları ilerleyen aşamalarda ayrıca çalışılır."
+    },
+    {
+      "id": "nun",
+      "order": 25,
+      "arabic": "ن",
+      "name": "Nun",
+      "pronunciation": "Türkçedeki n sesine yakın okunur.",
+      "example": "نَ",
+      "exampleReading": "ne",
+      "note": "Üstünde tek nokta bulunur."
+    },
+    {
+      "id": "vav",
+      "order": 26,
+      "arabic": "و",
+      "name": "Vav",
+      "pronunciation": "V sesine yakın okunur; uzatma harfi olarak u sesi de verebilir.",
+      "example": "وَ",
+      "exampleReading": "ve",
+      "note": "Kendinden sonraki harfe bitişmez."
+    },
+    {
+      "id": "he",
+      "order": 27,
+      "arabic": "ه",
+      "name": "He",
+      "pronunciation": "Yumuşak h sesiyle okunur.",
+      "example": "هَ",
+      "exampleReading": "he",
+      "note": "Kelime içindeki şekli bulunduğu yere göre değişir."
+    },
+    {
+      "id": "lamelif",
+      "order": 28,
+      "arabic": "لا",
+      "name": "Lamelif",
+      "pronunciation": "Lam ve elifin birlikte yazılmış özel şeklidir.",
+      "example": "لاَ",
+      "exampleReading": "la",
+      "note": "Ayrı bir ses değil, lam ile elifin birleşik yazımıdır."
+    },
+    {
+      "id": "ye",
+      "order": 29,
+      "arabic": "ي",
+      "name": "Ye",
+      "pronunciation": "Y sesine yakın okunur; uzatma harfi olarak i sesi de verebilir.",
+      "example": "يَ",
+      "exampleReading": "ye",
+      "note": "Altında iki nokta bulunur."
+    }
+  ],
+  "marks": [
+    {
+      "id": "fetha",
+      "arabic": "َ",
+      "name": "Üstün",
+      "reading": "e / a",
+      "note": "Harf üstüne gelir ve kısa e-a sesi verir."
+    },
+    {
+      "id": "kesra",
+      "arabic": "ِ",
+      "name": "Esre",
+      "reading": "i",
+      "note": "Harf altına gelir ve kısa i sesi verir."
+    },
+    {
+      "id": "damma",
+      "arabic": "ُ",
+      "name": "Ötre",
+      "reading": "u / ü",
+      "note": "Harf üstüne gelir ve kısa u-ü sesi verir."
+    },
+    {
+      "id": "sukun",
+      "arabic": "ْ",
+      "name": "Cezim",
+      "reading": "sessiz",
+      "note": "Harekesiz okunan harfi gösterir."
+    },
+    {
+      "id": "shadda",
+      "arabic": "ّ",
+      "name": "Şedde",
+      "reading": "çift",
+      "note": "Harf iki kere okunuyormuş gibi kuvvetli okunur."
+    },
+    {
+      "id": "tenvin",
+      "arabic": "ً ٍ ٌ",
+      "name": "Tenvin",
+      "reading": "en / in / un",
+      "note": "Kelime sonunda n sesi ekler."
+    }
+  ]
+}
